@@ -3,7 +3,7 @@
 #define BUILD_NUMBER std::string(getenv("BUILD_NUMBER"))
 
 void print_build_number() {
-    std::cout << "build " << BUILD_NUMBER << "\n";
+    std::cout << "build: --" << BUILD_NUMBER << "\n";
 }
 
 int main() {
