@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/asbool/Yandex.Disk/Projects_C++_II/OTUS_Repository_Prof/build",
-  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/helloworld.dir/hello_world.cpp.o -c /home/asbool/Yandex.Disk/Projects_C++_II/OTUS_Repository_Prof/src/hello_world.cpp",
-  "file": "/home/asbool/Yandex.Disk/Projects_C++_II/OTUS_Repository_Prof/src/hello_world.cpp",
-  "output": "CMakeFiles/helloworld.dir/hello_world.cpp.o"
-}
-]
